@@ -9,5 +9,6 @@ namespace ProjectVapeLab
     class Eliquid
     {
         public int volume;
+        public int power;
     }
 }
